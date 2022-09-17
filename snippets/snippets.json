@@ -22,8 +22,8 @@
   "Freezed Union": {
     "prefix": "funion",
     "body": [
-      "@immutable",
-      "abstract class ${1:Union} with _$${1:Union}{",
+      "@freezed",
+      "class ${1:Union} with _$${1:Union}{",
       "  const factory ${1:Union}.${2}(${4}) = ${3};",
       "}"
     ],
