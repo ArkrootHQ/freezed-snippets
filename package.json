@@ -1,7 +1,12 @@
 {
   "name": "freezed-snippets",
   "displayName": "Freezed Snippets",
-  "description": "Snippets that will make your development faster when using freezed.",
+  "description": "Light and easy to use freezed snippets extension for VS Code🚀.",
+  "icon": "icons/freezed_snippets_icon.png",
+  "publisher": "Arkroot",
+  "repository": {
+    "url": "https://github.com/Arkroot-Innovations/freezed-snippets"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
