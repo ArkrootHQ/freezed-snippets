@@ -12,8 +12,8 @@
   "Freezed Data Class": {
     "prefix": "fdataclass",
     "body": [
-      "@immutable",
-      "abstract class ${1:DataClass} with _$${1:DataClass}{",
+      "@freezed",
+      "class ${1:DataClass} with _$${1:DataClass}{",
       "  const factory ${1:DataClass}(${2}) = _${1:DataClass};",
       "}"
     ],
