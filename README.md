@@ -1,6 +1,6 @@
 # freezed-snippets
 
-Light and easy to use freezed snippets🚀.
+Light and easy to use freezed snippets 🚀.
 
 ## Features
 
