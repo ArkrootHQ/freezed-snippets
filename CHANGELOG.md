@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.2] - 2023-03-31
+- Add `fromJson` support for `fdataClass`
+
 ## [0.0.1] - 2022-08-18
 
 - Initial releas
