@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.0.3] - 2023-08-19
+- fix: removed top level factory declaration for data class
+
 ## [0.0.2] - 2023-03-31
 - Add `fromJson` support for `fdataClass`
 
