@@ -1,5 +1,8 @@
 # Change Log
 
+### [0.1.0] - 2023-10-25
+- feat: add imports for data class
+
 ## [0.0.3] - 2023-08-19
 - fix: removed top level factory declaration for data class
 
