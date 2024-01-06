@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.1.1] - 2024-01-06
+- Reorder import statements
+
 ### [0.1.0] - 2023-10-25
 - feat: add imports for data class
 
