@@ -12,8 +12,8 @@
   "Freezed Data Class": {
     "prefix": ["fdataclass", "fdc"],
     "body": [
-      "import 'package:freezed_annotation/freezed_annotation.dart';",
       "import 'package:flutter/foundation.dart';",
+      "import 'package:freezed_annotation/freezed_annotation.dart';",
       "",
       "part '${TM_FILENAME_BASE}.freezed.dart';",
       "part '${TM_FILENAME_BASE}.g.dart';",
